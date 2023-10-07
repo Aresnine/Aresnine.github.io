@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s,a}from"./app.db42a1fc.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"面试题/js/index.md"}'),n={name:"面试题/js/index.md"},o=a("p",null,"js面试题",-1),r=[o];function c(d,_,i,p,l,m){return t(),s("div",null,r)}const x=e(n,[["render",c]]);export{u as __pageData,x as default};

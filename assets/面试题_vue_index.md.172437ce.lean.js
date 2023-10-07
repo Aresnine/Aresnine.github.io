@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,a as n}from"./app.db42a1fc.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"面试题/vue/index.md"}'),o={name:"面试题/vue/index.md"},s=n("p",null,"vue面试题",-1),r=[s];function c(d,_,i,p,l,u){return t(),a("div",null,r)}const x=e(o,[["render",c]]);export{f as __pageData,x as default};
